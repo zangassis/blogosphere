@@ -10,6 +10,7 @@ public class Post
     public string Content { get; set; }
     public DateTime CreatedAt { get; set; }
     public string Author { get; set; }
+    public ICollection<Comment> Comments { get; set; }
 
     public Post()
     {
