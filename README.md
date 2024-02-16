@@ -25,7 +25,7 @@ To get started with Blogosphere, follow these simple steps:
 
 4. **Access Blogosphere in your browser:**
    ```
-   http://localhost:[PORT]
+   http://localhost:[PORT]/graphql
    ```
 
 ### Features
